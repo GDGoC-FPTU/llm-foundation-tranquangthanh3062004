@@ -33,7 +33,6 @@
 
 3. **Cài đặt thư viện từ [requirements.txt](file:///j:/VinUniCodelab/VinUni_Codelab_Day01/requirements.txt):**
    ```bash
-   pip install -r requirements.txt
    ```
 
 ---
